@@ -1,29 +1,31 @@
 {
-  "name": "frappe-gantt-react",
-  "version": "0.2.2",
+  "name": "frappe-gantt-react-no-scroll",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "./index.js",
   "types": "./typings/main.d.ts",
   "author": {
-    "name": "Mohammed Abdulkereem",
-    "email": "mohammed-io@outlook.com"
+    "name": "Bhabuk Kuwar",
+    "email": "bhabukunwar@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mohammed-io/frappe-gantt-react"
+    "url": "https://github.com/bhabukkun/frappe-gantt-react-no-scroll"
   },
   "bugs": {
-    "url": "https://github.com/mohammed-io/frappe-gantt-react/issues"
+    "url": "https://github.com/bhabukkun/frappe-gantt-react-no-scroll/issues"
   },
   "keywords": [
     "react",
-    "frappe gantt wrapper",
+    "frappe gantt wrapper no scroll",
     "gantt",
     "svg",
     "simple gantt",
     "project timeline",
     "interactive gantt",
-    "project management"
+    "project management",
+    "bhabuk",
+    "bbk"
   ],
   "dependencies": {
     "frappe-gantt": "^0.3.0",
